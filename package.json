@@ -1,0 +1,22 @@
+{
+  "name": "pigongting-js-beautify",
+  "version": "1.0.0",
+  "description": "format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigongting/js-beautify.git"
+  },
+  "keywords": [
+    "format"
+  ],
+  "author": "pigongting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pigongting/js-beautify/issues"
+  },
+  "homepage": "https://github.com/pigongting/js-beautify#readme"
+}
